@@ -1,0 +1,7 @@
+txetxu      password    
+kelrru      barcelona   
+pau         123         
+user1       user1       
+bojan       krkic       
+bojan2      krkic       
+ra          ra          
